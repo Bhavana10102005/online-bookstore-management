@@ -1,0 +1,147 @@
+{
+  "Fiction": [
+    {
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "price": 299,
+      "image": "https://covers.openlibrary.org/b/id/7884866-L.jpg",
+      "rating": 4.8
+    },
+    {
+      "title": "Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "price": 499,
+      "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+      "rating": 4.9
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "price": 320,
+      "image": "https://covers.openlibrary.org/b/id/6979861-L.jpg",
+      "rating": 4.7
+    },
+    {
+      "title": "Game of Thrones",
+      "author": "George R. R. Martin",
+      "price": 450,
+      "image": "https://covers.openlibrary.org/b/id/8311591-L.jpg",
+      "rating": 4.8
+    }
+  ],
+  "Motivational": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 450,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX329_BO1,204,203,200_.jpg",
+      "rating": 4.7
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 300,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51BikdRma4L._SX320_BO1,204,203,200_.jpg",
+      "rating": 4.6
+    },
+    {
+      "title": "The 7 Habits",
+      "author": "Stephen R. Covey",
+      "price": 500,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41-hKHc79yL._SX331_BO1,204,203,200_.jpg",
+      "rating": 4.8
+    },
+    {
+      "title": "You Can Win",
+      "author": "Shiv Khera",
+      "price": 350,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41f3+f8tGhL._SX331_BO1,204,203,200_.jpg",
+      "rating": 4.5
+    }
+  ],
+  "Study": [
+    {
+      "title": "Algorithms Unlocked",
+      "author": "Thomas H. Cormen",
+      "price": 399,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41z4m2tBzWL._SX376_BO1,204,203,200_.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Discrete Mathematics",
+      "author": "Kenneth H. Rosen",
+      "price": 350,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41qjL0OEXzL._SX396_BO1,204,203,200_.jpg",
+      "rating": 4.4
+    },
+    {
+      "title": "Linear Algebra",
+      "author": "Gilbert Strang",
+      "price": 400,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41zE6f4iCWL._SX396_BO1,204,203,200_.jpg",
+      "rating": 4.4
+    }
+  ],
+  "Fairy Tales": [
+    {
+      "title": "Cinderella",
+      "author": "Charles Perrault",
+      "price": 199,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cinderella_1911_illustration.jpg",
+      "rating": 4.2
+    },
+    {
+      "title": "Sleeping Beauty",
+      "author": "Charles Perrault",
+      "price": 180,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sleeping_Beauty_%281915%29_illustration.jpg",
+      "rating": 4.1
+    },
+    {
+      "title": "Rapunzel",
+      "author": "Brothers Grimm",
+      "price": 210,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rapunzel_Grimm.jpg",
+      "rating": 4.0
+    }
+  ],
+  "Animated": [
+    {
+      "title": "Frozen",
+      "author": "Disney",
+      "price": 249,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_2_poster.jpg",
+      "rating": 4.3
+    },
+    {
+      "title": "Moana",
+      "author": "Disney",
+      "price": 270,
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Moana_poster.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "Toy Story",
+      "author": "Disney Pixar",
+      "price": 260,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+      "rating": 4.4
+    }
+  ],
+  "Success": [
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 320,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41yR4sw4sQL._SX331_BO1,204,203,200_.jpg",
+      "rating": 4.5
+    },
+    {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "price": 400,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41AgxU5Zc9L._SX331_BO1,204,203,200_.jpg",
+      "rating": 4.6
+    }
+  ]
+}
